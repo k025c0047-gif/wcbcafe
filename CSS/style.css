@@ -27,13 +27,18 @@ img {
     font-family: 'philosopher', sans-serif;
     font-weight: normal;
 }
-.page-title {
+.page-title,
+.heading-large {
     font-size: 3rem;
     text-align: center;
+}
+.page-title {
     margin-top: 2rem;
     line-height: 1.4;
 }
-.head
+.heading-large {
+    margin-bottom: 1rem;
+}
 /* ヘッダー
 -------------------------------------------------- */
 .page-header {
