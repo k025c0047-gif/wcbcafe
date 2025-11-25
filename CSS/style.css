@@ -33,7 +33,7 @@ img {
     margin-top: 2rem;
     line-height: 1.4;
 }
-
+.head
 /* ヘッダー
 -------------------------------------------------- */
 .page-header {
@@ -62,4 +62,12 @@ img {
 }
 .cover-home {
     background-image: url(../images/cover-home-s.webp);
+}
+.about {
+    max-width: 736px;
+    padding: 0 1.5rem;
+    margin: 3rem auto 0;
+}
+.about p {
+    margin-bottom: 3rem;
 }
