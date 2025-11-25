@@ -36,7 +36,7 @@ img {
 .logo {
     width: 210px;
 }
-.main-nav ul {
+.main-nav {
     display: flex;
     justify-content: center;
     gap: 2.5rem;
