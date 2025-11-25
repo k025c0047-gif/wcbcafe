@@ -105,3 +105,15 @@ img {
     padding: 0 1.5rem;
     border-spacing: 0;
 }
+.info th,
+.info td {
+    border-bottom: 1px solid #c9c2bc;
+}
+.info th {
+    text-align: left;
+    font-weight: normal;
+    padding: 1rem;
+}
+.info td {
+    padding: 1rem 0;
+}
