@@ -92,6 +92,12 @@ img {
 }
 /* フッター
 -------------------------------------------------- */
+.page-footer {
+    background-image: url(../images/cover-home-s.webp);
+    background-size: cover;
+    background-position: center ;
+    padding-top: 12rem;
+}
 .info {
     width: 100%;
     max-width: 544px;
